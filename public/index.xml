@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Timer | Responsive Multipurpose Bootstrap Hugo Template</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Timer | Responsive Multipurpose Bootstrap Hugo Template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Jul 2018 12:29:40 +0600</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A New Year a New Posibility</title>
+      <link>http://example.org/blog/a-new-year-a-new-posibility/</link>
+      <pubDate>Sun, 15 Jul 2018 12:29:40 +0600</pubDate>
+      
+      <guid>http://example.org/blog/a-new-year-a-new-posibility/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas sit expedita, iusto repellendus cumque, officia architecto consequatur illo fuga eum sed ut autem eos voluptas. Nemo, a, rem! Atque quisquam aperiam eaque tenetur autem, soluta itaque omnis. Minus nesciunt, sint, animi illum quo ab voluptate esse delectus unde maiores iure, quasi a suscipit ipsam aliquid voluptatem. Perspiciatis eveniet, pariatur illum aut cum dolor neque consequatur error aliquid facilis in quasi temporibus assumenda tempore, doloremque autem saepe enim nihil.</description>
+    </item>
+    
+    <item>
+      <title>Building an Online Audience</title>
+      <link>http://example.org/blog/building-an-online-audience/</link>
+      <pubDate>Sun, 15 Jul 2018 12:27:38 +0600</pubDate>
+      
+      <guid>http://example.org/blog/building-an-online-audience/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas sit expedita, iusto repellendus cumque, officia architecto consequatur illo fuga eum sed ut autem eos voluptas. Nemo, a, rem! Atque quisquam aperiam eaque tenetur autem, soluta itaque omnis. Minus nesciunt, sint, animi illum quo ab voluptate esse delectus unde maiores iure, quasi a suscipit ipsam aliquid voluptatem. Perspiciatis eveniet, pariatur illum aut cum dolor neque consequatur error aliquid facilis in quasi temporibus assumenda tempore, doloremque autem saepe enim nihil.</description>
+    </item>
+    
+    <item>
+      <title>Space Shouldn&#39;t Be the Final Frontier</title>
+      <link>http://example.org/blog/space-shouldnt-be-the-final-frontier/</link>
+      <pubDate>Sun, 15 Jul 2018 12:21:58 +0600</pubDate>
+      
+      <guid>http://example.org/blog/space-shouldnt-be-the-final-frontier/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas sit expedita, iusto repellendus cumque, officia architecto consequatur illo fuga eum sed ut autem eos voluptas. Nemo, a, rem! Atque quisquam aperiam eaque tenetur autem, soluta itaque omnis. Minus nesciunt, sint, animi illum quo ab voluptate esse delectus unde maiores iure, quasi a suscipit ipsam aliquid voluptatem. Perspiciatis eveniet, pariatur illum aut cum dolor neque consequatur error aliquid facilis in quasi temporibus assumenda tempore, doloremque autem saepe enim nihil.</description>
+    </item>
+    
+    <item>
+      <title>Calculator</title>
+      <link>http://example.org/portfolio/calculator/</link>
+      <pubDate>Thu, 12 Jul 2018 16:59:54 +0600</pubDate>
+      
+      <guid>http://example.org/portfolio/calculator/</guid>
+      <description>Javascript Calculator To start our new journey in Restart Network after finishing 3 months bootcamp in learning LAMP Stack development. We continued to learn in depth about Javascript. Our task was to create Javascript Calculator that can add, subtract, multiply and divide two numbers. It can clear the input field with a clear button. Also, it can keep chaining mathematical operations together till equal button is click, and the calculator will show the correct output.</description>
+    </item>
+    
+    <item>
+      <title>Tic Tac Toe</title>
+      <link>http://example.org/portfolio/tic-tac-toe/</link>
+      <pubDate>Thu, 12 Jul 2018 16:59:54 +0600</pubDate>
+      
+      <guid>http://example.org/portfolio/tic-tac-toe/</guid>
+      <description>Tic-Tac-Toe To continue learning using React during my Restart Network guide period we followed tic-tac-toe tutorial from official React Documentation website. This allows students to learn more about parent and child component and managing state, stateless component and lifting state up to the parent component.
+Technologies Used React
+Challenges Faced Managing the state Lifting the state up to the parent.
+URL https://jenjenshas-tic-tac-toe.firebaseapp.com</description>
+    </item>
+    
+    <item>
+      <title>Find Ninja</title>
+      <link>http://example.org/portfolio/findninja/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/portfolio/findninja/</guid>
+      <description>MERN Project Description As part of Mern Stack development tutorial during my Restart Network guide period I followed and created this application that will allow user to locate a ninja using Geo Near Locator.
+How To Use Please enter latitude 25 and enter longitude -80 to find close by ninjas.
+Technologies Used Node.js Basic React MongoDb Geo Near location
+Challenges Faced First application with React Using Geo Near was difficult because it was outdated in the tutorial then I have to find a solution to make it work.</description>
+    </item>
+    
+    <item>
+      <title>Github Battle</title>
+      <link>http://example.org/portfolio/github-battle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/portfolio/github-battle/</guid>
+      <description>Github-battle Description As part of Restart Network curriculum I followed tutorial and created the sample application for Fundamentals of React. The application is a simple game to see your friends github repositories in comparison to the other github account. This also allow you to see the popular repositories in github.
+Technologies Used React
+Challenges Faced First React application
+URL https://my-first-github-battle-app.firebaseapp.com/</description>
+    </item>
+    
+    <item>
+      <title>Pomodoro Clock</title>
+      <link>http://example.org/portfolio/pomodoro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/portfolio/pomodoro/</guid>
+      <description>Pomodoro Clock To begin our new phase as a student in Restart Network we started to create our own Pomodoro Clock using Jquery and Bootstrap.The Pomodoro Clock uses a timer to break down work into intervals of 25 minutes in length, separated by short breaks. The method is based on the idea that frequent breaks can improve mental agility.
+Technologies Used Jquery Bootstrap CSS
+Challenges Faced Where to start coding Figuring out how the timers and the buttons are connected</description>
+    </item>
+    
+    <item>
+      <title>Reddit</title>
+      <link>http://example.org/portfolio/reddit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/portfolio/reddit/</guid>
+      <description>Reddit Description As part of my MERN stack development evaluation in Restart Network this application was created. This allows users to register, log in , post message, upvote posted messages, see registered users posted messages and log out.
+Technology Used Mongo DB Express NodeJS React Bootstrap
+Challenges Faced Sorting posts by number of upvotes Validation of forms
+URL https://mern-reddit-app-challenge.herokuapp.com/</description>
+    </item>
+    
+    <item>
+      <title>To Do List</title>
+      <link>http://example.org/portfolio/to-do-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/portfolio/to-do-list/</guid>
+      <description>To Do App Description After completing 3 months of Bootcamp Period in Restart Network we started to learn new technology MERN. This is an application that I created while following the tutorial from net ninja in Restart Network curriculum. This allows users to add a to do item and it also delete each item.
+Technologies Used Node.js MongoDb
+Challenges Faced First node application Deploying to google cloud
+URL https://first-to-do-app.herokuapp.com/todo</description>
+    </item>
+    
+  </channel>
+</rss>
