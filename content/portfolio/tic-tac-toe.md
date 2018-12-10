@@ -9,6 +9,7 @@ category: ['React']
 # client: Julia Robertson
 # submitDate: November 20, 2017
 # location: 1201 park street, Avenue, Dhaka
+link: https://jenjenshas-tic-tac-toe.firebaseapp.com
 ---
 
 ### Tic-Tac-Toe

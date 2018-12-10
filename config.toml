@@ -57,8 +57,9 @@ theme = "timer-hugo"
     # Homepage About Section
     [params.about]
         enable  = true
-        title   = "ABOUT ME"
-        content = "Hello, You can call me Jen and I'm  originally from the Philippines and currently Front End Developer Intern at Ace&Tate<br/><br/> When I was a child I’ve always imagined how will I help people around me and that encouraged me to become a Nurse in the Philippines.<br/></br/>One of the turning points in my life is when I decided to leave my country to help my siblings with their studies so they can have a better future.<br/><br/>Along the way I met my boyfriend who is a developer and he introduced me to the world of coding. After a while I came across Restart Network and I thought this program will definitely help me widen my knowledge about coding.Restart Network helped and guided me to learn more about what it means to be a developer. Since then I am passionate and working hard to achieve my ambition to become a developer. What I like most about coding is that it gives me happiness whenever I solve problems and challenges. This gives me a sense of achievement, and that inspires me to learn more everyday.In the future, It would be an honour for me to use my coding skills in a community of passionate people who are focussed on helping others."
+        title   = "My Story"
+        content = "I'm originally from the Philippines, where I grew up wanting to help others and that inspired me to become a Nurse.<br>One of the turning points in my life is when I decided to leave my country so I can help support my family so they can have a better future.<br>Moving here in the Netherlands changed everything. It inspired me to reboot my career and I came across Restart Network. Restart Network triggered my interest in learning how to develop websites as I have been curious in the past about the fast changing world of Technology. In the future, It would be an honour for me to use my coding skills in a community of passionate people who are focussed on helping others."
+
         image   = "images/about/hanson.jpg"
 
     # Call to Action
