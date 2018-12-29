@@ -48,8 +48,8 @@ theme = "timer-hugo"
         heading = "Hi, my  name is Jen Jensha Sibunga"
         description = "Junior Frontend Developer and a graduate Full Stack Developer at Restart Network Bootcamp in Rotterdam"
         btn     = true
-        btnText = "Download Resume"
-        btnURL  = "pdfs/jensha-resume.pdf"
+        btnText = "View Github"
+        btnURL  = "https://github.com/jenjensha"
         [[params.banner.flipText]]
             title   = "Web Developer"
        
