@@ -45,7 +45,7 @@ theme = "timer-hugo"
     [params.banner]
         enable  = true
         bgImage = "images/slider.jpg"
-        heading = "Hi, my  name is Jen Jensha Sibunga"
+        heading = "Hi, my  name is Jen"
         description = "Junior Frontend Developer and a graduate Full Stack Developer at Restart Network Bootcamp in Rotterdam"
         btn     = true
         btnText = "View Github"
